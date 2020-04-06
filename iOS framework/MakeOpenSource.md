@@ -72,7 +72,14 @@ pod repo update
 
 ### 코코아팟 라이브러리 만들기
 
-* 프로젝트 생성을 원하는 디렉토리로 이동하여 pod lib create {라이브러리명} 명령어를 실행합니다.
+* 프로젝트 생성을 원하는 디렉토리로 이동하여 라이브러리 프로젝트를 만든다.
+```
+ pod lib create WJCoordinator
+                {라이브러리명}
+```
+* 프로젝트 생성의 준비단계로, 아래와 같은 질문에 따라 프로젝트 속성이 설정된다.
+
+
 * Q1) What platform do you want to use?? [ iOS / macOS ]
 실습은 iOS 애플리케이션을 기준으로 진행하기 때문에 iOS를 선택하도록 하겠습니다.
 
