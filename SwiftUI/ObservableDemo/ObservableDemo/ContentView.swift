@@ -14,24 +14,31 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @ObservedObject var timerData:TimerData = TimerData()
+//    @ObservedObject var timerData:TimerData = TimerData()
+    @EnvironmentObject var timerData : TimerData
     
     var body: some View {
+//        NavigationView {
+//            VStack {
+//                Text("Timer count = \(timerData.timeCount)")
+//                    .font(.largeTitle)
+//                    .fontWeight(.bold)
+//                    .padding()
+//                Button(action: resetCount) {
+//                    Text("Reset Counter")
+//                }
+//                // 하나의 옵저버블 객체 인스턴스를 두개의 뷰가 구독하고 있는 방법
+//                NavigationLink(destination: SecondView(timerData: timerData)) {
+//                    Text("Next Screen")
+//                }
+//            .padding()
+//            }
+//        }
         NavigationView {
-            VStack {
-                Text("Timer count = \(timerData.timeCount)")
-                    .font(.largeTitle)
-                    .fontWeight(.bold)
-                    .padding()
-                Button(action: resetCount) {
-                    Text("Reset Counter")
-                }
-                // 하나의 옵저버블 객체 인스턴스를 두개의 뷰가 구독하고 있는 방법
-                NavigationLink(destination: SecondView(timerData: timerData)) {
-                    Text("Next Screen")
-                }
-            .padding()
+            NavigationLink(destination: SecondView()) {
+                Text("Next Screen\(timerData.timeCount)")
             }
+        .padding()
         }
         
         
@@ -44,6 +51,6 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        ContentView().environmentObject(TimerData())
     }
 }

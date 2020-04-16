@@ -10,20 +10,28 @@ import SwiftUI
 
 struct SecondView: View {
     
-    @ObservedObject var timerData:TimerData = TimerData()
-    
+//    @ObservedObject var timerData:TimerData = TimerData()
+    @EnvironmentObject var timerData:TimerData
     var body: some View {
-        NavigationView {
-            VStack {
-                Text("Timer count = \(timerData.timeCount)")
-                    .font(.largeTitle)
-                    .fontWeight(.bold)
-                    .padding()
-                Button(action: resetCount) {
-                    Text("Reset Counter")
-                }
-            }
-        }
+//        NavigationView {
+//            VStack {
+//                Text("Timer count = \(timerData.timeCount)")
+//                    .font(.largeTitle)
+//                    .fontWeight(.bold)
+//                    .padding()
+//                Button(action: resetCount) {
+//                    Text("Reset Counter")
+//                }
+//            }
+//        }
+        VStack {
+            Text("Second View")
+                .font(.largeTitle)
+            Text("Timer Count = \(timerData.timeCount)")
+                .font(.headline)
+        }.padding()
+        
+        
         
         
     }
@@ -35,6 +43,6 @@ struct SecondView: View {
 
 struct SecondView_Previews: PreviewProvider {
     static var previews: some View {
-        SecondView()
+        SecondView().environmentObject(TimerData())
     }
 }
