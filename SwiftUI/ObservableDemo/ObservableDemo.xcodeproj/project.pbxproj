@@ -15,6 +15,8 @@
 		58C7046F2448A05E00C98D6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58C7046D2448A05E00C98D6D /* LaunchScreen.storyboard */; };
 		58C704772448A0F900C98D6D /* TimerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58C704762448A0F900C98D6D /* TimerData.swift */; };
 		58C704792448A38800C98D6D /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58C704782448A38800C98D6D /* SecondView.swift */; };
+		58C7047B2448A9A900C98D6D /* AlignView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58C7047A2448A9A900C98D6D /* AlignView.swift */; };
+		58C7047D2448AFE900C98D6D /* PracticeAlignView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58C7047C2448AFE900C98D6D /* PracticeAlignView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		58C704702448A05E00C98D6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		58C704762448A0F900C98D6D /* TimerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerData.swift; sourceTree = "<group>"; };
 		58C704782448A38800C98D6D /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		58C7047A2448A9A900C98D6D /* AlignView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlignView.swift; sourceTree = "<group>"; };
+		58C7047C2448AFE900C98D6D /* PracticeAlignView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeAlignView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +68,9 @@
 				58C704642448A05900C98D6D /* SceneDelegate.swift */,
 				58C704662448A05900C98D6D /* ContentView.swift */,
 				58C704782448A38800C98D6D /* SecondView.swift */,
+				58C7047A2448A9A900C98D6D /* AlignView.swift */,
 				58C704762448A0F900C98D6D /* TimerData.swift */,
+				58C7047C2448AFE900C98D6D /* PracticeAlignView.swift */,
 				58C704682448A05E00C98D6D /* Assets.xcassets */,
 				58C7046D2448A05E00C98D6D /* LaunchScreen.storyboard */,
 				58C704702448A05E00C98D6D /* Info.plist */,
@@ -156,7 +162,9 @@
 				58C704792448A38800C98D6D /* SecondView.swift in Sources */,
 				58C704772448A0F900C98D6D /* TimerData.swift in Sources */,
 				58C704652448A05900C98D6D /* SceneDelegate.swift in Sources */,
+				58C7047B2448A9A900C98D6D /* AlignView.swift in Sources */,
 				58C704672448A05900C98D6D /* ContentView.swift in Sources */,
+				58C7047D2448AFE900C98D6D /* PracticeAlignView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
