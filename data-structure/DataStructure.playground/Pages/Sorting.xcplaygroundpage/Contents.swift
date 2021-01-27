@@ -61,10 +61,26 @@ func selectSorting(with array:[Int]){
     print("------------------------------------------")
 //    print("----------------- Loop Time : \(cnt) -----------------")
 }
+func insertSort(with array:[Int]){
+    var array = array
+
+    for i in 1..<array.count {
+        
+        var pointer = i
+        let tempVal = array[i] //pick
+        
+        while pointer > 0 && array[pointer-1] > tempVal {
+            array[pointer] = array[pointer-1]
+            pointer -= 1
+        }
+        array[pointer] = tempVal
+    }
+    print(array)
+}
 
 func main(){
 //    selectSorting(with: [9,8,7,6,5,4,3,2,1])
-    
+    insertSort(with: [4,2,6,3,1])
 }
 
 main()
