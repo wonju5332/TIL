@@ -3,5 +3,6 @@
     <pages>
         <page name='LinearSearch'/>
         <page name='Dynamic Programming'/>
+        <page name='Sorting'/>
     </pages>
 </playground>

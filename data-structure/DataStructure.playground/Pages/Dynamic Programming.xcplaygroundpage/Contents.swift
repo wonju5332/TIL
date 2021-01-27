@@ -105,16 +105,18 @@ pow(x: 2, n: 15)
  */
 
 func towerOfHanoi(s:String, d:String, e:String, n:Int){
-    
+    print("s : \(s) d: \(d) e: \(e) n:\(n)")
     if n <= 0 {
         return
     }
     towerOfHanoi(s: s, d: e, e: d, n: n-1)
     print("\(n)번 원반을 \(s)에서 \(d)으로 옮긴다.")
-    return towerOfHanoi(s: e, d: d, e: s, n: n-1)
+    towerOfHanoi(s: e, d: d, e: s, n: n-1)
     
 }
-towerOfHanoi(s: "s", d: "d", e: "e", n: 3)
+//towerOfHanoi(s: "s", d: "d", e: "e", n: 3)
+
+
 
 
 //: [Next](@next)
