@@ -4,5 +4,6 @@
         <page name='LinearSearch'/>
         <page name='Dynamic Programming'/>
         <page name='Sorting'/>
+        <page name='Stack Queue'/>
     </pages>
 </playground>

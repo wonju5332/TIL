@@ -78,9 +78,10 @@ func insertSort(with array:[Int]){
     print(array)
 }
 
+
+
 func main(){
-//    selectSorting(with: [9,8,7,6,5,4,3,2,1])
-    insertSort(with: [4,2,6,3,1])
+    
 }
 
 main()
