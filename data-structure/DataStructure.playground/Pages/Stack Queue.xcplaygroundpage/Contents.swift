@@ -22,7 +22,6 @@ class LintManager{
         do {
             try parseText(text: text)
         } catch LintError.incorrectClosingBrace(let idx, let wrongBrace) {
-            print(idx)
             print("IncorrectClosingBrace! at \(idx)  \(wrongBrace)")
             return
         } catch LintError.nonExistClosingBrace {
@@ -63,9 +62,36 @@ class LintManager{
         stack.popLast()
     }
 }
+//: ### 큐
 
-let manager = LintManager()
-manager.doLint(text: "private var stack:[String] = {[]}")
+class PrintManager {
+    private var queue:[String] = []
+    
+    public func job(doc:String){
+        print("job : \(doc)")
+        queue.append(doc)
+    }
+    
+    func run(){
+        if queue.isEmpty {
+            print("no job no print")
+            return
+        }
+        
+        while !queue.isEmpty {
+            let pick = queue.removeFirst()
+            print("print : \(pick)")
+            
+        }
+        print("all jobs are clear")
+    }
+    
+    private func doPrint(doc:String){
+        
+    }
+}
 
-
+let manager = PrintManager()
+manager.job(doc: "h1")
+manager.run()
 //: [Next](@next)
