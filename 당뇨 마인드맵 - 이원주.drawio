@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T08:10:37.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="M_MyDebGRCxr4OmeYqtB" version="18.0.3" type="github">
-  <diagram id="g_V9-acEFdEAG3IKYyD8" name="Page-1">
-    <mxGraphModel dx="2328" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-05-16T02:54:08.068Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="GZbyh5XtlnBDUOcAtQt8" version="18.0.3" type="github" pages="2">
+  <diagram id="g_V9-acEFdEAG3IKYyD8" name="마인드맵">
+    <mxGraphModel dx="2493" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,24 @@
         </mxCell>
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-4" value="혈당" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="554" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-6" target="t7zCFh7yVWf4zO5Y2Elh-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-6" target="t7zCFh7yVWf4zO5Y2Elh-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-6" target="t7zCFh7yVWf4zO5Y2Elh-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-6" target="t7zCFh7yVWf4zO5Y2Elh-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-6" value="합병증" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
@@ -74,12 +92,18 @@
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-12" value="자가측정기기&lt;br&gt;(SMBG)" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-14" target="41DsXDS8xWnUiYPo9nYX-1">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-14" target="41DsXDS8xWnUiYPo9nYX-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="980" y="840" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-14" target="t7zCFh7yVWf4zO5Y2Elh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-14" target="t7zCFh7yVWf4zO5Y2Elh-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-14" value="연속혈당측정기기&lt;br&gt;(CGMS)" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="320" width="120" height="60" as="geometry" />
@@ -130,6 +154,9 @@
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-38" value="채혈침" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-40" target="t7zCFh7yVWf4zO5Y2Elh-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-40" value="관리" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="680" width="120" height="60" as="geometry" />
         </mxCell>
@@ -148,7 +175,7 @@
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-46" value="전극" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-48" target="41DsXDS8xWnUiYPo9nYX-2">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-48" target="41DsXDS8xWnUiYPo9nYX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="620" as="targetPoint" />
             <Array as="points">
@@ -157,7 +184,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-48" target="41DsXDS8xWnUiYPo9nYX-3">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-48" target="41DsXDS8xWnUiYPo9nYX-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-20" y="550" />
@@ -166,17 +193,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-48" target="41DsXDS8xWnUiYPo9nYX-21">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-48" target="41DsXDS8xWnUiYPo9nYX-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="gCbO_-hF72Fawr1xWXWd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-48" target="gCbO_-hF72Fawr1xWXWd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-48" value="인슐린" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-51" target="Y6iC1_zE7bD9HLDlbDbJ-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-51" target="t7zCFh7yVWf4zO5Y2Elh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-51" value="진단" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
@@ -188,8 +221,16 @@
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-56" value="인증심사기관" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="555" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;sketch=1;" edge="1" parent="1" source="Y6iC1_zE7bD9HLDlbDbJ-58" target="t7zCFh7yVWf4zO5Y2Elh-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="270" />
+              <mxPoint x="740" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-58" value="공복혈당" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-60" value="경구포도당검사" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="100" width="120" height="60" as="geometry" />
@@ -200,18 +241,21 @@
         <mxCell id="Y6iC1_zE7bD9HLDlbDbJ-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="351.05" y="440" width="128.95" height="25.52" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-1" value="인공췌장" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="810" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41DsXDS8xWnUiYPo9nYX-2" target="41DsXDS8xWnUiYPo9nYX-8">
+        <mxCell id="gCbO_-hF72Fawr1xWXWd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;curved=1;sketch=1;" edge="1" parent="1" source="41DsXDS8xWnUiYPo9nYX-1" target="gCbO_-hF72Fawr1xWXWd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="41DsXDS8xWnUiYPo9nYX-2" target="41DsXDS8xWnUiYPo9nYX-11">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-1" value="인공췌장" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="41DsXDS8xWnUiYPo9nYX-2" target="41DsXDS8xWnUiYPo9nYX-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="41DsXDS8xWnUiYPo9nYX-2" target="41DsXDS8xWnUiYPo9nYX-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-230" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="41DsXDS8xWnUiYPo9nYX-2" target="41DsXDS8xWnUiYPo9nYX-12">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="41DsXDS8xWnUiYPo9nYX-2" target="41DsXDS8xWnUiYPo9nYX-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-100" y="688" />
@@ -219,7 +263,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="41DsXDS8xWnUiYPo9nYX-2" target="41DsXDS8xWnUiYPo9nYX-25">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="41DsXDS8xWnUiYPo9nYX-2" target="41DsXDS8xWnUiYPo9nYX-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-143" y="680" />
@@ -228,41 +272,91 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-2" value="투약" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-2" value="투약" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-19" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41DsXDS8xWnUiYPo9nYX-3" target="41DsXDS8xWnUiYPo9nYX-18">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-19" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="41DsXDS8xWnUiYPo9nYX-3" target="41DsXDS8xWnUiYPo9nYX-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-3" value="기록" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-3" value="기록" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="465.52" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-8" value="디지털 인슐린 펜" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-8" value="디지털 인슐린 펜" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-11" value="주사기" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-11" value="주사기" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-350" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="41DsXDS8xWnUiYPo9nYX-12" target="41DsXDS8xWnUiYPo9nYX-1">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="41DsXDS8xWnUiYPo9nYX-12" target="41DsXDS8xWnUiYPo9nYX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-12" value="인슐린 펌프" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-12" value="인슐린 펌프" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-18" value="인슐린 로거&lt;br&gt;(Logger)" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-18" value="인슐린 로거&lt;br&gt;(Logger)" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="465.52" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-24" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41DsXDS8xWnUiYPo9nYX-21" target="41DsXDS8xWnUiYPo9nYX-23">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-24" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="41DsXDS8xWnUiYPo9nYX-21" target="41DsXDS8xWnUiYPo9nYX-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-21" value="보온" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-21" value="보온" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-23" value="인슐린 냉장고" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-23" value="인슐린 냉장고" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41DsXDS8xWnUiYPo9nYX-25" value="인슐린 &lt;br&gt;카트리지" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="41DsXDS8xWnUiYPo9nYX-25" value="인슐린 &lt;br&gt;카트리지" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-370" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gCbO_-hF72Fawr1xWXWd-1" value="인슐린 적정용량 &lt;br&gt;알고리즘" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gCbO_-hF72Fawr1xWXWd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="gCbO_-hF72Fawr1xWXWd-8" target="gCbO_-hF72Fawr1xWXWd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCbO_-hF72Fawr1xWXWd-8" value="치료" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gCbO_-hF72Fawr1xWXWd-13" value="Mono / Dual / Tripple Teraphy*" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-1" value="간질액" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-4" value="nfc 통신" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-6" value="Hba1c&lt;br&gt;&amp;lt; 7.5%" style="rhombus;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-8" value="&amp;lt; 110mg/dL" style="rhombus;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-12" value="망막성" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-14" value="신경성" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-17" value="족부성" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-18" value="체중" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7zCFh7yVWf4zO5Y2Elh-20" value="뇌혈관" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5OZy_PtDdN-5qnns24nM" name="Teraphy">
+    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cMTuZgEmY9286eH7xVvf-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.med-iq.com/files/cme/chapter/text-basedSuppliments/az034/figure4.gif;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="818.63" height="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
