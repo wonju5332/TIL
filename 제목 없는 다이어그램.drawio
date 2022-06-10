@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T01:11:38.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UrQUZj88mEAw2W7kW1dm" version="19.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-10T01:50:37.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="pqbx1Cc6QSl6AZgEu2nk" version="19.0.3" type="github" pages="3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1426" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yZoM2DzugxWFDifvUgiA" name="모해스 상세메뉴구조도">
-    <mxGraphModel dx="1678" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="2038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -454,16 +454,6 @@
         <mxCell id="t-4FHvg666tLyh9EHMJu-14" value="추천 기능성&amp;nbsp;지표 목록" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="850" y="560" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t-4FHvg666tLyh9EHMJu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="t-4FHvg666tLyh9EHMJu-17" target="fZqzjuPaT0svHBaNtwZt-61">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1030" y="460" />
-              <mxPoint x="1030" y="680" />
-              <mxPoint x="1200" y="680" />
-              <mxPoint x="1200" y="740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t-4FHvg666tLyh9EHMJu-17" value="문진 입력" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="840" y="440" width="160" height="40" as="geometry" />
         </mxCell>
@@ -490,13 +480,6 @@
         </mxCell>
         <mxCell id="t-4FHvg666tLyh9EHMJu-28" value="문진 결과" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="840" y="480" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BAaB2lfuQCMsxIqBRS8e-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="te9A3suhixItWf61-ydM-1" target="fZqzjuPaT0svHBaNtwZt-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1120" y="740" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="te9A3suhixItWf61-ydM-1" value="입고상품 | &lt;br&gt;미입고상품" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;glass=0;fontSize=14;fontStyle=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="720" width="120" height="40" as="geometry" />
