@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T02:42:46.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="PoEZYgCIwDnYFjG3eQT5" version="19.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-14T02:55:38.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="MahHgrOIiHoyA-k1OwwX" version="19.0.3" type="github" pages="8">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1322" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -654,7 +654,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="90RPj8kWuPH8BaLlMrEV" name="V1 데모 와이어프레임">
-    <mxGraphModel dx="1322" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1154,7 +1154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V2 메뉴구조도" id="37_ZCQOE0Ds4bPzwXetQ">
-    <mxGraphModel dx="1322" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="B96sI12FJ-hy3UWJW2WZ-0" />
         <mxCell id="B96sI12FJ-hy3UWJW2WZ-1" parent="B96sI12FJ-hy3UWJW2WZ-0" />
@@ -1457,13 +1457,13 @@
           <mxGeometry x="20" y="780" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dUzNWKmT30ORX4KPlR_F-14" value="알림" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="20" y="860" width="160" height="40" as="geometry" />
+          <mxGeometry x="20" y="820" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dUzNWKmT30ORX4KPlR_F-15" value="신규상품 출시" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="30" y="900" width="140" height="40" as="geometry" />
+          <mxGeometry x="30" y="860" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dUzNWKmT30ORX4KPlR_F-16" value="공지내용" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="30" y="940" width="140" height="40" as="geometry" />
+          <mxGeometry x="30" y="900" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dUzNWKmT30ORX4KPlR_F-17" value="쿠폰 받기" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="300" width="160" height="40" as="geometry" />
@@ -1990,7 +1990,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b3AEAUWCooSXPwrDc5yH" name="모해스 기기관리자용 앱">
-    <mxGraphModel dx="1322" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
